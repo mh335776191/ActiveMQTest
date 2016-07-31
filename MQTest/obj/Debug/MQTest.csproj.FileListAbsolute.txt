@@ -1,0 +1,10 @@
+c:\users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQTest\bin\Debug\MQTest.exe.config
+c:\users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQTest\bin\Debug\MQTest.exe
+c:\users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQTest\bin\Debug\MQTest.pdb
+c:\users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQTest\bin\Debug\Apache.NMS.ActiveMQ.dll
+c:\users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQTest\bin\Debug\Apache.NMS.dll
+c:\users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQTest\bin\Debug\Apache.NMS.pdb
+c:\users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQTest\bin\Debug\Apache.NMS.ActiveMQ.pdb
+c:\users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQTest\bin\Debug\Apache.NMS.ActiveMQ.xml
+c:\users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQTest\obj\Debug\MQTest.exe
+c:\users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQTest\obj\Debug\MQTest.pdb

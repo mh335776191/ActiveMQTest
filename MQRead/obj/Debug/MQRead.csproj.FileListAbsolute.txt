@@ -1,0 +1,10 @@
+c:\Users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQRead\bin\Debug\MQRead.exe.config
+c:\Users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQRead\bin\Debug\MQRead.exe
+c:\Users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQRead\bin\Debug\MQRead.pdb
+c:\Users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQRead\bin\Debug\Apache.NMS.ActiveMQ.dll
+c:\Users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQRead\bin\Debug\Apache.NMS.dll
+c:\Users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQRead\bin\Debug\Apache.NMS.pdb
+c:\Users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQRead\bin\Debug\Apache.NMS.ActiveMQ.pdb
+c:\Users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQRead\bin\Debug\Apache.NMS.ActiveMQ.xml
+c:\Users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQRead\obj\Debug\MQRead.exe
+c:\Users\mahua\Documents\Visual Studio 2015\Projects\MQTest\MQRead\obj\Debug\MQRead.pdb
